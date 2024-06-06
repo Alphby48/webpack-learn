@@ -1,7 +1,8 @@
-import { run } from "./app/app";
-import { AlertService } from "./app/alert.service";
-import { CalculatorService } from "./app/calculator.service";
-import { JokesService } from "./app/jokes.service";
+import css from "./style.css";
+import { run } from "./app/app.js";
+import { AlertService } from "./app/alert.service.js";
+import { CalculatorService } from "./app/calculator.service.js";
+import { JokesService } from "./app/jokes.service.js";
 
 const alertService = new AlertService();
 const calculatorService = new CalculatorService();
