@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbelajar_webpack_code=self.webpackChunkbelajar_webpack_code||[]).push([[753],{853:(e,a,c)=>{c(543),console.log("Hello Webpack!")}},e=>{e(e.s=853)}]);
